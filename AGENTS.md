@@ -6,9 +6,9 @@ The **Grails ReCaptcha Plugin** adds [Google ReCaptcha](https://www.google.com/r
 Grails applications: a tag library that renders the captcha widget, and a service that verifies the
 answer the user submitted.
 
-- **Language:** Groovy 5.0.8 on Java 21
+- **Language:** Groovy 5.1.3 on Java 21
 - **Framework:** Grails 8.x
-- **Build System:** Gradle 8.14.4 (with wrapper)
+- **Build System:** Gradle 9.8.0 (with wrapper)
 - **Artifact:** `io.github.gpc:grails-recaptcha`
 - **Current Version:** 8.0.0-SNAPSHOT
 - **License:** Apache 2.0
@@ -106,9 +106,9 @@ grails-recaptcha-plugin/
 
 Use SDKMAN to install the correct tool versions (see `.sdkmanrc`):
 
-- Java: `21.0.11-librca`
-- Gradle: `8.14.4`
-- Groovy: `5.0.8`
+- Java: `21.0.12-librca`
+- Gradle: `9.8.0`
+- Groovy: `5.1.3`
 
 Run `sdk env install` to set up the environment.
 
